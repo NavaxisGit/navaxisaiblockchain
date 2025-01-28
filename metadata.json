@@ -1,6 +1,6 @@
 {
   "name": "Navaxis Token",
   "symbol": "NAI",
-  "description": "Example token from Solana Making a Token guide.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  "description": "Example token of navaxis.ai",
+  "image": "https://github.com/NavaxisGit/navaxisaiblockchain/blob/b5c9a916dfbbf10cd77567b2e20e944f7ed00d2b/navaxislogo.png"
 }
